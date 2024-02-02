@@ -188,7 +188,6 @@ def autonomous():
         # rloader.stop()
         # lloader.stop()
         
-#sa imi bag pula in toate echipele astea de au avut timp
 
 #realtime code
 endgame.set_position(0, DEGREES)
